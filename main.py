@@ -19,7 +19,6 @@ for name in names:
         # Escribe el contenido modificado en el nuevo archivo
         new_letter.write(new_name)
 
-
 starting.close()
 n.close()
 
